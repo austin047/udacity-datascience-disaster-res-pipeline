@@ -3,6 +3,7 @@
 
 1. [Description](#Description)
 2. [Project Motivation](#motivation)
+2. [Installation](#installation)
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
@@ -20,7 +21,7 @@ The Project is seperated into 3 main parts
  ---
 
     
-## Dependencies 
+## Dependencies <a name="Description"></a>
     - Python 3.x.x+
     - Machine Learning & ELT: Pandas, Numpy, Sciki-Learn
     - Natural Language Processes: nltk
@@ -28,7 +29,7 @@ The Project is seperated into 3 main parts
     - Model Persistence: Pickle
     - Web App and Data Visualization: Flask, Plotly
     
-## Installation<a name="motivation"></a>
+## Installation<a name="installation"></a>
 
     1. Clone the Repository 
     
