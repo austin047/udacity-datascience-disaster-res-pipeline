@@ -2,11 +2,11 @@
 ### Table of Contents
 
 1. [Description](#Description)
-2. [Project Motivation](#motivation)
-2. [Installation](#installation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+2. [Dependencies](#Dependencies)
+3. [Installation](#installation)
+4. [File Descriptions](#files)
+5. [Results](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Description <a name="installation"></a>
 
@@ -21,7 +21,7 @@ The Project is seperated into 3 main parts
  ---
 
     
-## Dependencies <a name="Description"></a>
+## Dependencies <a name="Dependencies"></a>
     - Python 3.x.x+
     - Machine Learning & ELT: Pandas, Numpy, Sciki-Learn
     - Natural Language Processes: nltk
